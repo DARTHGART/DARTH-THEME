@@ -1,0 +1,32 @@
+{
+  "name": "darth-theme",
+  "displayName": "DARTH-THEME",
+  "description": "Theme by DARTHGART",
+  "version": "0.0.1",
+  "publisher": "darthgart",
+  "engines": {
+    "vscode": "^1.77.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "vscode",
+    "theme",
+    "dark",
+    "orange"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DARTHGART/DARTH-THEME.git"
+  },
+  "contributes": {
+    "themes": [
+      {
+        "label": "DARTH THEME",
+        "uiTheme": "vs-dark",
+        "path": "./themes/DARTH THEME-color-theme.json"
+      }
+    ]
+  }
+}
