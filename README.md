@@ -1,5 +1,5 @@
 # Tema de Visual Studio Code "DARTH-THEME"
-Benvingut! Aquest és un tema personalitzat de Visual Studio Code que combina un fons fosc amb vibrants accents de taronja, verd i lila per a una experiència de codificació única i atractiva.
+Benvingut! Aquest és un tema personalitzat de Visual Studio Code que combina un fons fosc amb vibrants accents de taronja, verd i violeta per a una experiència de codificació única i atractiva.
 
 ## Característiques
 - **Fons fosc:** un fons fosc és ideal per a minimitzar la fatiga visual i ressaltar el codi en la pantalla. Aquest tema té un fons fosc que et permet treballar durant llargues hores sense cansar els ulls.
